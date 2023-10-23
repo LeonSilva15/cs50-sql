@@ -12,7 +12,10 @@ Start using `sqlite` with the next command. This will open the database using `s
 ```
 sqlite3 longlist.db
 ```
-
+Get the full list of sqlite3 commands
+```
+.help
+```
 Exit the cli using
 ```
 .quit
